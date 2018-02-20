@@ -1,8 +1,7 @@
 # Anagram
 
-read all words from the Moin's dictionary 
-remove the blank space from word 
-sort word in alphabetical order
+read all words from the Moin's dictionary, 
+remove the blank space from word then sort word in alphabetical order.
 
 
 If the word with these letters is not in the dictionary,
