@@ -7,7 +7,7 @@ def sorted_word(word):
 
 def fill_words_dictionary():
     #Loading Persian Dictionary
-    wb = load_workbook(filename='MoinDictionary.xlsx', read_only=True)
+    wb = load_workbook(filename='MoinDictionary2.xlsx', read_only=True)
     ws = wb.active
     
     for row in ws.rows:
